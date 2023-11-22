@@ -1,0 +1,15 @@
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\bin\Debug\net8.0\CLearning.exe
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\bin\Debug\net8.0\CLearning.deps.json
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\bin\Debug\net8.0\CLearning.runtimeconfig.json
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\bin\Debug\net8.0\CLearning.dll
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\bin\Debug\net8.0\CLearning.pdb
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\CLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\CLearning.AssemblyInfoInputs.cache
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\CLearning.AssemblyInfo.cs
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\CLearning.csproj.CoreCompileInputs.cache
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\CLearning.sourcelink.json
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\CLearning.dll
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\refint\CLearning.dll
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\CLearning.pdb
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\CLearning.genruntimeconfig.cache
+C:\Users\Omaxx\Desktop\CLearning\C-Learning-1\CLearning\obj\Debug\net8.0\ref\CLearning.dll
